@@ -20,7 +20,9 @@ public class PrimeNumbers {
 			} else {
 			System.out.println("Number is prime..");
 			}
+		    System.out.print("Adding sysout");
 			}
+	      
 
 	}
 
